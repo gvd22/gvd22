@@ -21,7 +21,7 @@ def schedule():
         messagecreation(message)
     elif current_time == acht:
         message = "Es ist " + acht + " Uhr, du musst jetzt medikament 1000mg, medikament 600mg, 2x Tabletten medikament, medikament 40mg nehmen" \
-                                    "und Co-Amoxicillin 1g "
+                                    "und medikament 1g "
         messagecreation(message)
     elif current_time == vierzehn:
         message = "Es ist " + vierzehn + " Uhr, du musst jetzt medikament 1000mg und medikament 600mg nehmen"
