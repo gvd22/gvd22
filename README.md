@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gvd22
-- 👀 I’m interested in IOT and OpenAI
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning Informatiker Systemtechnik in Switzerland
 <!---
 gvd22/gvd22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
